@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Relationships
+	xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+	<Relationship Target="../media/image1.jpeg" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/image" Id="rId3"/>
+	<Relationship Target="../media/image2.jpeg" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/image" Id="rId4"/>
+	<Relationship Target="../media/image3.jpeg" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/image" Id="rId5"/>
+	<Relationship Target="../media/image4.jpeg" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/image" Id="rId6"/>
+	<Relationship Target="../media/image5.jpeg" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/image" Id="rId7"/>
+	<Relationship Target="../media/image6.jpeg" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/image" Id="rId8"/>
+	<Relationship Target="../media/image7.jpeg" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/image" Id="rId9"/>
+	<Relationship Target="../media/image8.jpeg" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/image" Id="rId10"/>
+	<Relationship Target="../media/image9.jpeg" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/image" Id="rId11"/>
+	<Relationship Target="../media/image10.jpeg" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/image" Id="rId12"/>
+</Relationships>
